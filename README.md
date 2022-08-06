@@ -10,8 +10,8 @@ Project Url: [https://api.github.com/repos/denghuiquan/vite-cli](https://api.git
 ## how to use
 - 在你的vue根目录下安装该cli
 
-```npm install vite-cli -D && npm link vite-cli```
+```npm install @huiquan.d/vite-cli -D && npm link @huiquan.d/vite-cli```
 - 使用该cli快速运行项目
 在项目的package.json中的scripts添加"dev": "npx vite-cli"命令
-或者项目根目录下直接运行：`npx vite-cli`
+或者项目根目录下直接运行：`npx @huiquan.d/vite-cli`
 
